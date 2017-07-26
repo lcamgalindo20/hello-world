@@ -14,3 +14,5 @@ Pull requests are requests done a user that asks to the master branch, hey, I ma
 >>>>>>> edits2
 
 Okay, so look here I can edit my files online.
+
+Now I have seen my updates online, and can send it back to the remote (Github)
